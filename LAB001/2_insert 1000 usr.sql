@@ -1,4 +1,7 @@
-select * from usr;
+SELECT 
+    *
+FROM
+    usr;
 
 insert into usr (usr, name, surname) values ('noahsmith', 'Noah', 'Smith');
 insert into usr (usr, name, surname) values ('oliverjohnson', 'Oliver', 'Johnson');
